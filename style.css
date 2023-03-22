@@ -1,0 +1,32 @@
+.orange {
+    color: #fd7e14; 
+    width: 50%;
+} 
+.orange_button {
+    background-color: #fd7e14;
+} 
+html { 
+    height: 100%;
+}
+body {
+    height: 100%;
+    background-image: linear-gradient(135deg, #fd7e14 20%, #FFC107, whitesmoke);
+}
+
+.logout_link {
+    text-decoration: none;
+} 
+
+table {
+    border-collapse: collapse;
+    border-radius: 5px;
+}
+
+.task_form{
+    width: 100%;
+}
+
+.dodawanie {
+    height: max-content;
+    margin: 0.5rem;
+}
